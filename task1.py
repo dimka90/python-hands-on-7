@@ -12,6 +12,7 @@ Build a REST API to manage a library of books with categories, authors, and repo
 
 INSTRUCTIONS:
 Complete the TODO sections below to build a fully functional Book Library AP
+Note: Containerize your App
 """
 
 """ Model"""
